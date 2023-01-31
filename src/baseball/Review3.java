@@ -1,5 +1,7 @@
 package baseball;
 
+import baseball.BaseBallTeam;
+
 public class Review3 {
 
 	    public static void main(String[] args) {
